@@ -2,22 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Succeed With Clarity. Lead With Impact.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Based out of Rochester, NY/p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,9 +24,72 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Short Intro Paragraph
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to SucceedWith.me — a personal leadership space designed to showcase how clarity, structure, and cross-functional alignment drive meaningful results. I help teams succeed by bringing order to complexity, elevating communication, and building frameworks that move organizations forward with confidence and momentum.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+CTA Buttons
+
+    •    Learn About My Work
+
+    •    Download My Resume
+
+
+ABOUT SECTION
+
+Who I Am
+
+I’m Jenn Farrell — an operations leader with a strategic mindset, an MBA foundation, and a natural drive to organize chaos into coordinated, measurable progress. I specialize in connecting people, process, and technology to create clarity, enable alignment, and deliver outcomes that last.
+
+I thrive in environments where there’s ambiguity, competing priorities, and complex technical ecosystems. My approach blends big-picture thinking with practical execution, ensuring teams not only move forward — but move forward together.
+
+What I Value
+
+    •    Clear communication
+
+    •    Transparent leadership
+
+    •    Cross-functional partnership
+
+    •    Strategic decision-making
+
+    •    Momentum through structure
+
+    •    Empowering others to succeed
+
+
+THE SUCCEED FRAMEWORK™
+
+(This is your signature method — created specifically for your branding)
+
+S – Simplify the Problem
+
+Break down complexity into clear, digestible components.
+
+U – Understand the Ecosystem
+
+Connect technology, process, and people to see the full picture.
+
+C – Create Alignment
+
+Drive clarity across teams, roles, and expectations.
+
+C – Construct the Plan
+
+Build structured, realistic roadmaps that account for dependencies.
+
+E – Execute with Accountability
+
+Ensure follow-through, communication, and measurable results.
+
+E – Elevate the Outcome
+
+Refine, optimize, and create sustainable improvements.
+
+D – Deliver Results That Stick
+
+Focus on long-term impact, not temporary fixes.
+
+This framework reflects how you lead, how you think, and how you make things succeed — perfect for a leadership brand.
